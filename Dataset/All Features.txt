@@ -1,0 +1,47 @@
+Country:
+Year: 
+Status: Developed or Developing status
+Life expectancy: Life Expectancy in age
+Adult Mortality: Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
+infant deaths: Number of Infant Deaths per 1000 population
+Alcohol: Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+percentage expenditure: Expenditure on health as a percentage of Gross Domestic Product per capita(%)
+Hepatitis B: Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
+Measles: Measles - number of reported cases per 1000 population
+BMI: Average Body Mass Index of entire population
+under-five deaths: Number of under-five deaths per 1000 population
+Polio: Polio (Pol3) immunization coverage among 1-year-olds (%)
+Total expenditure: General government expenditure on health as a percentage of total government expenditure (%)
+Diphtheria: Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+HIV/AIDS: Deaths per 1 000 live births HIV/AIDS (0-4 years)
+GDP: Gross Domestic Product per capita (in USD)
+Population: Population of the country
+thinness 1-19 years: Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
+thinness 5-9 years: Prevalence of thinness among children for Age 5 to 9(%)
+Income composition of resources: Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
+Schooling: Number of years of Schooling(years)
+
+
+Quốc gia:
+Năm:
+Tình trạng: Trạng thái phát triển hoặc đang phát triển
+Tuổi thọ: Tuổi thọ trung bình theo độ tuổi
+Tử vong ở người lớn: Tỷ lệ tử vong ở người lớn cả hai giới (xác suất tử vong giữa 15 và 60 tuổi trên mỗi 1000 dân số)
+Tử vong sơ sinh: Số trẻ sơ sinh chết trong mỗi 1000 dân số
+Rượu: Tiêu thụ rượu theo đầu người (15+) (tính bằng lít cồn tinh khiết)
+Chi phí phần trăm: Chi phí cho sức khỏe so với tổng sản phẩm quốc nội trên đầu người (%)
+Viêm gan B: Tỷ lệ tiêm chủng viêm gan B (HepB) ở trẻ sơ sinh (%)
+Sởi: Số trường hợp sởi được báo cáo trên mỗi 1000 dân số
+Chỉ số BMI: Chỉ số cơ thể trung bình của toàn bộ dân số
+Tử vong dưới 5 tuổi: Số trẻ dưới 5 tuổi chết trong mỗi 1000 dân số
+Bại liệt: Tỷ lệ tiêm chủng bại liệt (Pol3) ở trẻ sơ sinh (%)
+Tổng chi phí: Chi phí chính phủ tổng cộng cho sức khỏe so với tổng chi phí chính phủ (%)
+Diphtheria: Tỷ lệ tiêm chủng Diphtheria, tetanus toxoid và pertussis (DTP3) ở trẻ sơ sinh (%)
+HIV/AIDS: Số lượng tử vong HIV/AIDS trên 1000 trẻ sơ sinh (0-4 tuổi)
+GDP: Sản phẩm quốc nội sản phẩm trên đầu người (tính bằng USD)
+Dân số: Dân số của quốc gia
+Ế ẩm 1-19 tuổi: Sự phổ biến của ế ẩm ở trẻ em và thanh niên từ 10 đến 19 tuổi (%)
+Ế ẩm 5-9 tuổi: Sự phổ biến của ế ẩm ở trẻ em từ 5 đến 9 tuổi (%)
+Sự thành lập thu nhập từ nguồn tài nguyên: Chỉ số Phát triển con người về thành lập thu nhập từ nguồn tài nguyên (chỉ số từ 0 đến 1)
+Giáo dục: Số năm đi học (năm)
+
